@@ -16,8 +16,6 @@ I'm assuming you have Python 3 installed and running on your PC.
 #### On Windows
 >> pip3 install -r requirements.txt
 
-If you like my work you can  [donate](https://cyberboysumanjay.github.io/donate.html). 
-Join my [Telegram Channel](https://t.me/sjprojects) for more updates on my works.
 # Fire up the script
 To run the script type
 >> python3 chat_bot.py
@@ -29,4 +27,3 @@ When training is finished, start the bot
 --
 #### Any suggestion is welcomed :)
 
-More about [Sumanjay](https://cyberboysumanjay.github.io)
